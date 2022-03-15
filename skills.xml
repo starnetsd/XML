@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<theory> Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC, Методологии разработки </theory>
+	<Client-Server> Что такое клиент-серверная архитектура. Создание клиент серверного приложения </Client-Server>
+	<HTTP> HTTP Методы запросов на сервер. Коды ответов HTTP сервера </HTTP>
+	<API> Тестирование API через Postman, автотесты API </API>
+	<Logs> Снятие и чтение логов c внешнего сервера </Logs>
+	<Sniffers> Снифинг http web трафика </Sniffers>
+	<VPN> Как работает, зачем нужен, как использовать, варианты инструментов </VPN>
+	<Mobile_testing> Особенность iOS, Android, гайдлайны, сборка приложений на XCode и AndroidStudio </Mobile_testing>
+	<ADB> Управление андройд девайсами </ADB>
+	<Mobile_proxy> Настройка прокси и vpn на iOS и Android </Mobile_proxy>
+	<Mobile_sniffers> Перехват (сниффинг) мобильного трафика </Mobile_sniffers>
+	<SQL> Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join) </SQL>
+	<Terminal> копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса, основы bash скриптинг </Terminal>
+	<DataBase> База данных. Реляционные и нереляционные базы </DataBase>
+	<Performance_testing> Jmeter - Hагрузочное тестирование </Performance_testing>
+</skills>
+
+
