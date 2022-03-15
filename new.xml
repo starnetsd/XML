@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<first_name> Dmitry </first_name>
+	<last_name> Starski </last_name>
+	<age> 30 </age>
+	<pets> 0 </pets>
+	<salary> 100.000 </salary>
+</student>
+
+
