@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+<BugID> 1 </BugID>
+<Title> User can't Log In with valid credentials </Title>
+<Environment> Windows 10 Pro 64-bit, Version 21H1, Build 19043.1586, Google Chrome Version 99.0.4844.51 </Environment>
+<Description> When trying to log in with valid credentials an error group 500 is displayed </Description>
+<Steps_to_reproduce>
+  <1="Navigate to https://ksendzov.com/login">
+  <2="type 'VadimKsendzov' in the 'username' field">
+  <3="type 'poplomot' in the 'password' field">
+  <4="click on 'Login' button">
+</Steps_to_reproduce>
+<Actual_Result> Error message '418 I'm a teapot' message is displayed </Actual_Result>
+<Expected_Result> User logged in. Home page is displayed </Expected_Result>
+<Priority> Highest </Priority>
+<Attachements> Screenshot1.png, Screenshot2.png, LogFile.txt </Attachements>
+<Assigned_to> developer1 </Assigned_to>
+    
